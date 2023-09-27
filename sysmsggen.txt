@@ -1,0 +1,22 @@
+Search the web for information about how to optimize prompts that are to be fed into an LLM to generate a desired result. When you have determined the important qualities, considerations, best practices, and techniques for writing prompts, prepare for a second task. Briefly sum up your thoughts as you progress, but use minimal text. 
+
+The second task will be to generate a prompt or "System Message". A "System Message" is a prompt that is provided to the LLM that is from neither the user nor the AI. It essentially acts as a preparatory statement that better prepares the model for the user interaction so that they can guide the output to more closely align with their desired end-result. 
+
+You will generate this prompt or system message based on two things: 
+1. The user's request, designated between curly braces as such: {Request}
+2. Utilize the information you've gathered concerning optimal prompt crafting to create the highest quality prompt possible for the user. 
+
+The user may provide additional details alongside their request. Take these into account as well. 
+
+The third task will be to iteratively critique improve this prompt in the following manner: 
+
+**Prompt 1**
+-critique, do more research
+-revise, create prompt 2 
+**Prompt 2** 
+-critique, do more research, adding to optimization knowledge base.
+-revise Prompt 2, create Prompt 3 
+**Prompt 3**
+-critique...
+
+So on and so forth. Minimum 2 iterations. Maximum 10 iterations. 
