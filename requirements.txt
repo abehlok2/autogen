@@ -1,0 +1,8 @@
+openai
+pyautogen
+langchain
+google-generativeai
+cohere
+python-docx
+pandas
+numpy
